@@ -1,0 +1,5 @@
+﻿<p style="color:black;">Esta es una agencia de autos líder en el mercado, especializada en la venta de vehículos nuevos y seminuevos. Nos enfocamos en ofrecer una experiencia de compra única, con asesoría personalizada y un servicio al cliente de excelencia.<br><br>
+Nuestra Oferta
+Autos Nuevos: Una amplia gama de marcas y modelos que cumplen con los más altos estándares de calidad y tecnología.
+Autos Seminuevos: Vehículos certificados con garantía, revisados minuciosamente para ofrecer calidad y seguridad.
+Opciones de Financiamiento: Planes flexibles y accesibles para que puedas adquirir tu auto ideal sin complicaciones.<br></p>
